@@ -1,0 +1,30 @@
+# Environment files
+.env
+.env.local
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Secrets
+*credentials*
+*secret*
+*.pem
+*.key
+
+# Node
+node_modules/
+
+# Database
+*.db
